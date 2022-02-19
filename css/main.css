@@ -1,0 +1,40 @@
+body {
+    background-image: url('../img/nick-nice-gPm8h3DS1s4-unsplash.jpg');
+
+}
+
+form {
+    text-align: center;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+th,td{
+    color: rgb(252, 250, 247);
+    font-size: xx-large;
+}
+
+.story{
+    color: aliceblue;
+    font-size: xx-large;
+}
+.wallpappers img{
+    height: 700px;
+    width: 700px;
+
+}
+
+img{
+    color:white;
+}
+
+table.course, table.course  th, table.course td{
+border: solid 5px white;
+text-align: center;
+}
+
+.sticky{
+    position: fixed;
+    top: 0%;
+    width: 100%;
+}
